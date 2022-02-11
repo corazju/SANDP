@@ -19,7 +19,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |3|2022.01.07|麻瓯博||杜林康|
 |4|2022.01.14|何平|HopSkipJumpAttack: A Query-Efficient Decision-Based Attack, S&P 2020|包晗|
 |5|2022.01.21|白熠阳||沈鹿嘉|
-|6|2022.02.11|高向珊||杜杨凯|
+|6|2022.02.11|高向珊|An Empirical Study of Example Forgetting During Deep Neural Network Learning, ICLR 2019|杜杨凯|
 |7|2022.02.18|林瑞潇||甘雨由|
 |8|2022.02.25|付冲||李泽宇|
 |9|2022.03.04|姜毅||刘丰豪|
